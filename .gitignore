@@ -1,0 +1,15 @@
+node_modules/
+/dist/
+.env
+.env.*
+!.env.example
+.vercel/
+video/
+capture/
+Screenshot*.png
+tests/.tmp-ui-*/
+.venv-kokoro/
+chrome-headless-profile/
+.hyperframes/
+*.mp4
+*.wav

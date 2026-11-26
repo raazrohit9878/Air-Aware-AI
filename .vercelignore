@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+node_modules
+dist
+video
+capture
+supabase
+start-airaware.bat
+Screenshot*.png
